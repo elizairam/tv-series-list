@@ -1,2 +1,2 @@
-# Tv_Series_List
+# tv-series-api
 React Fundamentals - Freecodecamp - Course by Edvinas Daugirdas.
